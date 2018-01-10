@@ -1,0 +1,19 @@
+*{
+	box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+  border: 2px solid black;
+  float: left;
+}
+
+header h1{
+  width: 50%;
+  float: left;
+  padding-left: 60px;
+}
+
+#links{
+  float:left;
+}
